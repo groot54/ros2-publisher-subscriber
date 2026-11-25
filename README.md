@@ -1,4 +1,3 @@
-# ros2-publisher-subscriber
 # ROS 2 Publisher and Subscriber
 
 A simple ROS 2 C++ project demonstrating publisher-subscriber communication using a custom `RobotStatus` message.
@@ -43,4 +42,3 @@ ros2 run entri_ros2_pubsub_cpp publisher_node
 
 - ROS 2 Jazzy
 - C++
-- ament_cmakeROS 2 Publisher and Subscriber(entri)
