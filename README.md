@@ -33,11 +33,11 @@ ros2 run entri_ros2_pubsub_cpp publisher_node
 
 **Publisher**
 
-![Publisher output](screenshots/publisher.png)
+![Publisher output](publisher_output.png)
 
 **Subscriber**
 
-![Subscriber output](screenshots/subscriber.png)
+![Subscriber output](subscriber_output.png)
 
 ## Requirements
 
